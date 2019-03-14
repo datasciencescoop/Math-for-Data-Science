@@ -12,7 +12,7 @@ Courses
 
 MUST READ Books
 =============
-1) The Elements of Statistical Learning(Springer Series)
+1) The Elements of Statistical Learning(Springer Series).
 
 2) Introduction to Linear Algebra by Gilbert Strang.
 
