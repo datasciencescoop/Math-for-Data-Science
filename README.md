@@ -13,8 +13,13 @@ Courses
 MUST READ Books
 =============
 1)The Elements of Statistical Learning(Springer Series)
+
 2)Introduction to Linear Algebra by Gilbert Strang.
+
 3)Naked Statistics by Charles Wheelan.
+
 4)An Introduction to Statistical Learning: with Applications in R.
+
 5)Pattern Recognition and Machine Learning by Christopher M. Bishop.
+
 6)Pattern Classification ((A Wiley-Interscience publication).
