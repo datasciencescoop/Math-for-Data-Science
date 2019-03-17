@@ -1,5 +1,4 @@
-# Math
-Math for Data Science
+# Math for Data Science
 Useful resources to improve your Math skills -
 
 Courses
